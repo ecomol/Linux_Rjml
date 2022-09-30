@@ -25,7 +25,7 @@ The uncompressed folder contains all the necessary files for **Rjml** installati
 (3) R packages argparser, foreach, doparallel, iterators, Rcpp, RcppArmadillo and Cjml1.  
 (4) A example dataset include three files：**jml.tpi.ctl** **rosa.species.trees** **tpi.phy**.  
 (5) **Rjml.R**:R code that performs the fourth step of **JML** analysis can be parallelized
-After decompressing **Rjml-linux.tar.gz** file, Users can type the following command into the terminal to complete the installation:  
+After decompressing **Rjml-linux.tar.gz** file, users can type the following command into the terminal to complete the installation:  
 `./runRjml.sh -il`  
 The user is required to provide root permission to write **Rjml** and JML-SIM to the environment variable (/usr/local/bin/).  
 Users should make sure all the uncompressed files in the same directory by decompressing **Rjml-linux.tar.gz** files.  
