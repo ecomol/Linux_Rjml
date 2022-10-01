@@ -64,4 +64,4 @@ Rambaut, A., & Grass, N. C. (1997). Seq-Gen: an application for the Monte Carlo 
 ****
 If you have any questions, please contact:  
 Qi Xiao, email: m18033705433@163.com; Address: CAS Key Laboratory of Mountain Ecological Restoration and Bioresource Utilization & Ecological Restoration and Biodiversity Conservation Key Laboratory of Sichuan Province, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041.  
-Prof. Youhua Chen, email: haydi@126.com; Address: CAS Key Laboratory of Mountain Ecological Restoration and Bioresource Utilization & Ecological Restoration and Biodiversity Conservation Key Laboratory of Sichuan Province, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041.
+Prof. Youhua Chen, email: chenyh@cib.ac.cn; Address: CAS Key Laboratory of Mountain Ecological Restoration and Bioresource Utilization & Ecological Restoration and Biodiversity Conservation Key Laboratory of Sichuan Province, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041.
